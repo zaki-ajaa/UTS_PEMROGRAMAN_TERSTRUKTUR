@@ -1,0 +1,4 @@
+1;Zaki;HG01;Hakau Udang;3;54000
+2;Budi;XL05;Xiao Long Bao;2;44000
+3;Dewi;SM02;Siomay Ayam;5;75000
+xx;rusak

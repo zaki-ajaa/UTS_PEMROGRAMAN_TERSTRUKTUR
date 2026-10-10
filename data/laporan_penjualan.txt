@@ -1,0 +1,12 @@
+LAPORAN PENJUALAN DIMSUM
+========================================
+#1   Zaki       Hakau Udang          x3  Rp  54,000
+#2   Budi       Xiao Long Bao        x2  Rp  44,000
+#3   Dewi       Siomay Ayam          x5  Rp  75,000
+----------------------------------------
+Jumlah transaksi : 3
+Total pendapatan : Rp173,000
+Menu terlaris    :
+  - Siomay Ayam (5 porsi)
+  - Hakau Udang (3 porsi)
+  - Xiao Long Bao (2 porsi)
