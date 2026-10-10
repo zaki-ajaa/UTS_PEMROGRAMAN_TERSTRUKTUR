@@ -1,0 +1,6 @@
+HG01;Hakau Udang;18000;Kukus
+SM02;Siomay Ayam;15000;Kukus
+BP03;Bakpao Babi Kecap;16000;Kukus
+LM04;Lumpia Udang;17000;Goreng
+XL05;Xiao Long Bao;22000;Kukus
+CK06;Cakwe Isi Udang;14000;Goreng
